@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2591a45-7886-4b35-9f87-4743be9d31ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZqUmPh9WdIqSVHdNHanSbu1YIo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/threads/executors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="threads.executors" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\IneliJ\JavaExecutors15\src\threads\executors" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="threads.executors.Main" />
+      <module name="JavaExecutors15" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2591a45-7886-4b35-9f87-4743be9d31ab" name="Default Changelist" comment="" />
+      <created>1585566275599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585566275599</updated>
+      <workItem from="1585566280642" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2561" y="427" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585566852649">
+      <screen x="1920" y="26" width="1680" height="1020" />
+    </state>
+    <state x="2561" y="427" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/1920.26.1680.1020@1920.26.1680.1020" timestamp="1585566852649" />
+    <state width="1637" height="78" key="GridCell.Tab.0.bottom" timestamp="1585566861156">
+      <screen x="1920" y="26" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="78" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.26.1680.1020@1920.26.1680.1020" timestamp="1585566861156" />
+    <state width="1637" height="78" key="GridCell.Tab.0.center" timestamp="1585566861156">
+      <screen x="1920" y="26" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="78" key="GridCell.Tab.0.center/0.0.1536.834/1920.26.1680.1020@1920.26.1680.1020" timestamp="1585566861156" />
+    <state width="1637" height="78" key="GridCell.Tab.0.left" timestamp="1585566861156">
+      <screen x="1920" y="26" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="78" key="GridCell.Tab.0.left/0.0.1536.834/1920.26.1680.1020@1920.26.1680.1020" timestamp="1585566861156" />
+    <state width="1637" height="78" key="GridCell.Tab.0.right" timestamp="1585566861156">
+      <screen x="1920" y="26" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="78" key="GridCell.Tab.0.right/0.0.1536.834/1920.26.1680.1020@1920.26.1680.1020" timestamp="1585566861156" />
+  </component>
+</project>

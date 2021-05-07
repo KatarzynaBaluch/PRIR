@@ -1,0 +1,9 @@
+start 3
+wątek: 0: start 3
+wątek: 2: start 3
+wątek: 0: start 3
+wątek: 0: start 0
+wątek: 7: start 1
+wątek: 3: start 3
+wątek: 4: start 4
+wątek: 9: start 4
